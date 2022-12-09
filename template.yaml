@@ -26,7 +26,6 @@ Resources:
           Properties:
             Path: /hello
             Method: get
-
 Outputs:
  
   HelloWorldApi:
