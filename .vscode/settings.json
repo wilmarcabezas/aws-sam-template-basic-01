@@ -1,0 +1,17 @@
+{
+    "serverlessConsole.services": [
+        {
+            "type": "cloudformation",
+            "title": "sam-basic-template-01-HelloWorldFunction-vrPLpr8kM48n",
+            "timeOffsetInMs": 0,
+            "awsProfile": "default",
+            "stacks": [
+                {
+                    "region": "us-west-1",
+                    "stackName": "sam-basic-template-01",
+                    "stage": "dev"
+                }
+            ]
+        }
+    ]
+}
